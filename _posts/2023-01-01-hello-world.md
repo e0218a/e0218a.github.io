@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Day 1/365 of Tech Resolutions: Personal Website
+title: Day 1/365 of Resolutions: Personal Website
 ---
 If you are reading this I succeeded! a.k.a **Hello World!**
 
-Every day in 2023, I will be working on a fun coding task. Today's fun task is starting a personal website.
+Every day in 2023, I will be working on a fun software engineering task every day to stay excited about coding projects. **Today's fun task is starting a personal website.**
 
-In order to get our page up and running super fast, we are going to set up the site using github pages and jekyll.
+In order to get our page up and running super fast, we are going to set up the site using Github pages and Jekyll.
 
 ### Documentation:
 1. In the Github Web UI, Go through the steps to create a new barebones repository. The repository title must follow the format

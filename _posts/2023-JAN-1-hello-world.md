@@ -1,3 +1,7 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
 # Day 1/365 Tech Resolutions
 
 If you are reading this I succeeded! a.k.a **Hello World!**

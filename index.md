@@ -1,6 +1,5 @@
-# e0218a.github.io
-e0218a
-  {% for post in site.posts %}
+# my blog <3
+{% for post in site.posts %}
   <article>
     <h2>
       <a href="{{ post.url }}">

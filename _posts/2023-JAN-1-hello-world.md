@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Day 1/365 Tech Resolutions
 ---
-# Day 1/365 Tech Resolutions
-
 If you are reading this I succeeded! a.k.a **Hello World!**
 
 For every day this year I will be working on a fun coding task.

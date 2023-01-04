@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Day 2: Personal Website"
+title:  "Personal Website Day 2: Hello World Revisited"
 date:   2023-01-02
 categories: personal website
 ---
+
 Today I will be focusing finding and correcting issues I may have missed yesterday in my work or documentation.
 
 Some issues I found looking around the site and the build yesterday included the following.

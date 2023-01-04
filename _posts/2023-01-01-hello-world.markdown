@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Day 1: Personal Website"
+title:  "Personal Website Day 1: Hello World"
 date:   2023-01-01
 categories: personal website
 ---
+
 If you are reading this I succeeded! a.k.a **Hello World!**
 
 Every day in 2023, I will be working on a fun software engineering task every day to stay excited about coding projects. **Today's fun task is starting a personal website.**
